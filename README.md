@@ -1,6 +1,6 @@
 # network-batch
 # PLEASE READ!
-# Interduction:
+# Introduction:
 This is network-batch, a batch script that has a series of commands that might fix network connection stuff, HOWEVER this might not fix all of your network connection problems.
 # IMPORTANT!
 - You have to configure this script before running it, follow the documentation written in the script in order to set up.
