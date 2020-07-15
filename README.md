@@ -11,3 +11,4 @@ This is network-batch, a batch script that has a series of commands that might f
 - Click on Download ZIP.
 - Extract 'network-batch-master'.
 - Edit 'network-batch.bat' and follow the notes written in the .bat file in order to set it up.
+- After setting it up, you are ready to go! Just run the .bat file and it'll do the job of running all those commands that are in it.
