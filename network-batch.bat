@@ -8,6 +8,8 @@
 
 :: I am not responsible for any damages caused by this script, if anything breaks, it's not my fault, you have been warned.
 
+:: AFTER SETTING IT UP, YOU MUST RUN THE .BAT FILE AS ADMINISTRATOR! OR ELSE SOME COMMANDS MIGHT NOT WORK AT ALL!
+
 :: Disable and re-enable adapters.
 :: Change 'value' with the name of your network adapter that you use to connect to the internet (Ex: Ethernet, Wi-Fi, Wi-Fi 2, etc...).
 :: You can disable and re-enable as many adapters as you want to, by adding the same commands with a different 'value'.
